@@ -49,6 +49,6 @@
 ✅ **Effective Test Case and Bug Report Writing Techniques** – MaharaTech  
 
 ## **📞 Connect with Me:**
-[![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/ziad-elshihy)  
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ziad-elshihy-ab683b218/)  
-[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/ZiadElshihy)  
+[![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/ziad-elshihy) 
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ziad-elshihy-ab683b218/) 
+[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/ZiadElshihy) 
