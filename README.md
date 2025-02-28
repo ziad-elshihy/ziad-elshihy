@@ -50,5 +50,5 @@
 
 ## **📞 Connect with Me:**
 [![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/ziad-elshihy) 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ziad-elshihy-ab683b218/) 
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](www.linkedin.com/in/ziad-elshihy) 
 [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/ZiadElshihy) 
